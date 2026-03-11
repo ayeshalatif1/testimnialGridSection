@@ -27,7 +27,7 @@ This challenge focused on recreating a multi-card testimonial layout using moder
 ### Links
 
 - Solution URL: [https://github.com/ayeshalatif1/testimonialGridSection]
-- Live Site URL: [https://ayeshalatif1.github.io/testimnialGridSection/]
+- Live Site URL: [https://ayeshalatif1.github.io/testimonialGridSection/]
 
 ## My process
 
